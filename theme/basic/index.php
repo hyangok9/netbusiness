@@ -14,7 +14,7 @@ if(G5_COMMUNITY_USE === false) {
 
 include_once(G5_THEME_PATH.'/head.php');
 ?>
-
+<h2>넷비즈니스</h2>
 <h2 class="sound_only">최신글</h2>
 
 <div class="latest_top_wr">
